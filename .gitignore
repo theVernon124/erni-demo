@@ -1,0 +1,10 @@
+# Test results
+results/
+*.log
+*.xml
+*.html
+
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
